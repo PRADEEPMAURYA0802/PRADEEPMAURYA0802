@@ -1,4 +1,5 @@
 # 💫 About Me:
+Hi there! 👋
 <br>I'm Pradeep Maurya,  a beginner web developer and programming enthusiast from India.<br> I enjoy building projects with HTML, CSS, JavaScript, and Python while continuously improving my coding skills.<br> I'm passionate about learning new technologies, solving problems, and sharing my progress through GitHub.<br> I'm always excited to collaborate, learn, and grow as a developer.<br>
 
 
